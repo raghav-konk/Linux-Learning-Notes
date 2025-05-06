@@ -31,3 +31,18 @@ Each file or directory has three types of permissions for **three categories** o
 
 ```bash
 ls -l
+
+## 🔧 Changing Permissions
+
+chmod – Change Mode (permissions)
+
+## 👑 Changing Ownership
+
+## chown - Change file owner
+
+sudo chown newuser file.txt
+sudo chown newuser:newgroup file.txt
+
+## chgrp - Change Group
+
+sudo chgrp devteam project.sh
