@@ -43,6 +43,6 @@ chmod – Change Mode (permissions)
 sudo chown newuser file.txt
 sudo chown newuser:newgroup file.txt
 
-## chgrp - Change Group
+## chgrp - Change Group privileges
 
 sudo chgrp devteam project.sh
