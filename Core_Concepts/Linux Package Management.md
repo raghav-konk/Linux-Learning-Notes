@@ -8,7 +8,7 @@
 
 ### Debian/Ubuntu (`.deb` packages)
 - **APT** (Advanced Package Tool)
-
+>
     sudo apt update           # Update package list
 
     sudo apt upgrade          # Upgrade installed packages
@@ -20,7 +20,7 @@
     sudo apt autoremove       # Remove unused dependencies
 
 - **dpkg (Low level Tool)**
-
+>
     sudo dpkg -i <file.deb>   # Install a .deb file
 
     sudo dpkg -r <pkg_name>        # Remove a package
@@ -28,6 +28,7 @@
 
 ### RHEL/CentOS/Fedora (.rpm packages)
 - **DNF** (Modern one in Fedora/RHEL)
+>
     sudo dnf install <pkg_name>    # Install a package
     sudo dnf update           # Update all packages
     sudo dnf remove <pkg_name>     # Remove a package
