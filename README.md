@@ -10,7 +10,7 @@ My notes while learning Linux
 - [Package Management](Core_Concepts/Linux%20Package%20Management.md)
 
 ### 🔹 Essential Commands
-- [grep](Essential%20Commands/grep.md)
+- [grep](Essential_Commands/grep%20usage.md)
 - [awk](commands/awk.md)
 - [sed](commands/sed.md)
 - [find & xargs](commands/find-xargs.md)
