@@ -4,13 +4,13 @@ My notes while learning Linux
 ## 📚 Table of Contents
 
 ### 🔹 Core Concepts
-- [File System Layout](file-system.md)
-- [File Permissions & Ownership](permissions.md)
-- [Processes & Jobs](processes.md)
-- [Package Management](packages.md)
+- [File System Layout](Core_Concepts/File-System.md)
+- [File Permissions & Ownership](Core_Concepts/File%20Permissions%20and%20Ownership.md)
+- [Processes & Jobs](Core_Concepts/Processes%20and%20Jobs.md)
+- [Package Management](Core_Concepts/Linux%20Package%20Management.md)
 
 ### 🔹 Essential Commands
-- [grep](commands/grep.md)
+- [grep](Essential%20Commands/grep.md)
 - [awk](commands/awk.md)
 - [sed](commands/sed.md)
 - [find & xargs](commands/find-xargs.md)
