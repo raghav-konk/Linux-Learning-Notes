@@ -47,3 +47,22 @@ find . -type f -size +100M
 ```
 find . -name "*.tmp" -delete
 ```
+
+
+## xargs Syntax
+```
+xargs [options] [command]
+```
+
+## xargs Usage
+### 1. Used in conjunction with other commands along with piping
+```
+echo "file1.txt file2.txt" | xargs rm
+```
+This deletes file1 and file2 
+
+### 2. Find along with Recursive delete
+```
+find . -name "*.c" | xargs rm -rf
+``` 
+This finds all the files that have .c extension and recursively deletes them. Sort of like a clean up.
