@@ -16,7 +16,7 @@ My notes while learning Linux
 - [find & xargs](Essential_Commands/find_and_xargs.md)
 
 ### 🔹 Networking
-- [IP, DNS, and Routing](networking/ip-dns-routing.md)
+- [IP, DNS, and Routing](Networking/ip_dns_routing.md)
 - [SSH and Remote Access](networking/ssh.md)
 - [Firewall & Ports](networking/firewall.md)
 
