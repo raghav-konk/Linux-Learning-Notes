@@ -13,7 +13,7 @@ My notes while learning Linux
 - [grep](Essential_Commands/grep%20usage.md)
 - [awk](Essential_Commands/awk_usage.md)
 - [sed](Essential_Commands/sed_usage.md)
-- [find & xargs](commands/find-xargs.md)
+- [find & xargs](Essential_Commands/find_and_xargs.md)
 
 ### 🔹 Networking
 - [IP, DNS, and Routing](networking/ip-dns-routing.md)
