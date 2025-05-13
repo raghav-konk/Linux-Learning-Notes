@@ -12,7 +12,7 @@ My notes while learning Linux
 ### 🔹 Essential Commands
 - [grep](Essential_Commands/grep%20usage.md)
 - [awk](Essential_Commands/awk_usage.md)
-- [sed](commands/sed.md)
+- [sed](Essential_Commands/sed_usage.md)
 - [find & xargs](commands/find-xargs.md)
 
 ### 🔹 Networking
