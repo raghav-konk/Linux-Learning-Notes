@@ -9,8 +9,23 @@
 - ### Public IP: Assigned by ISP. All devices in the local network share this public IP. They will have individual Local/Private IPs within that network.
 
 
-# DNS
+# DNS: Stands for Domain Name System
+- From a web browser POV, The easy to read website address needs to be assigned to a specific numeric IP address. This conversion is handled by DNS.
 
+- DNS servers, either by ISP or publicly available ones such as cloudfare DNS or Google DNS (8.8.8.8) take up this task.
 
+Can be configured to use a customer DNS setup in the system **/etc/resolv.conf** file as well as router
 
+## How its done?
+- Open the /etc/resolv.conf file.
+```
+nameserver 8.8.8.8
+``` 
+This does it for google
+```
+nameserver 1.1.1.1
+```
+This is for cloudfare DNS.
+
+If nothing is set, The system uses ISPs default DNS settings.
 # Routing
