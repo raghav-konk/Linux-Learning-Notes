@@ -17,7 +17,7 @@ sed 's/apple/orange/' fruits.txt
 ```
 sed 's/apple/orange/g'
 ``` 
-g indicates global here.
+The "g" indicates global here.
 
 ### 3. Replace only on specific line (e.g., line 3)
 ```
