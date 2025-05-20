@@ -33,3 +33,5 @@ You're managing a Linux server that suddenly becomes very slow. You suspect a fu
 1. **Check disk usage:**
    ```bash
    df -h
+
+/usr/bin contains user installed programs
