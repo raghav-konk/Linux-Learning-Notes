@@ -22,4 +22,4 @@ A **process** is a program in execution. Each process has:
 ps            # Shows current shell's active processes
 ps aux        # Lists all running processes in detail
 top           # Live, updating list of processes
-htop          # Colorful, interactive version of top (must install)
+htop          # Colorful, interactive version of top (must install, doesn't come pre installed)
