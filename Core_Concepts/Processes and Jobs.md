@@ -10,6 +10,7 @@ A **process** is a program in execution. Each process has:
 - A unique PID, usually a number (Process ID)
 - Its own memory and environment
 - Resources like CPU and file descriptors
+- consumes RAM
 
 ---
 
