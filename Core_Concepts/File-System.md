@@ -26,10 +26,12 @@ The Linux file system is organized as a single inverted tree with the root direc
 ## 🧠 Use Case Scenario: Troubleshooting a Full Disk.
 
 ### 🧩 Problem
-You're administering a Linux server that suddenly becomes very slow. You suspect a full disk.
+You're managing a Linux server that suddenly becomes very slow. You suspect a full disk.
 
 ### 🛠️ Steps to Troubleshoot
 
 1. **Check disk usage:**
    ```bash
    df -h
+
+/usr/bin contains user installed programs

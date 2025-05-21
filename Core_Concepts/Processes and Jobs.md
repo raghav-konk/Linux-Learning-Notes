@@ -7,9 +7,10 @@ Understanding how Linux handles processes and jobs is crucial for system managem
 ## 🧠 What is a Process?
 
 A **process** is a program in execution. Each process has:
-- A unique PID (Process ID)
+- A unique PID, usually a number (Process ID)
 - Its own memory and environment
 - Resources like CPU and file descriptors
+- consumes RAM
 
 ---
 
@@ -21,4 +22,4 @@ A **process** is a program in execution. Each process has:
 ps            # Shows current shell's active processes
 ps aux        # Lists all running processes in detail
 top           # Live, updating list of processes
-htop          # Colorful, interactive version of top (must install)
+htop          # Colorful, interactive version of top (must install, doesn't come pre installed)

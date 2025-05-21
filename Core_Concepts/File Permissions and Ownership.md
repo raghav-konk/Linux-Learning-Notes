@@ -30,7 +30,7 @@ Each file or directory has three types of permissions for **three categories** o
 ## 🧾 Viewing Permissions
 
 ```bash
-ls -l
+ls -l # Shows permission for all the files in the given folder
 
 ## 🔧 Changing Permissions
 

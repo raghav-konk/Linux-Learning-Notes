@@ -65,4 +65,4 @@ This deletes file1 and file2
 ```
 find . -name "*.c" | xargs rm -rf
 ``` 
-This finds all the files that have .c extension and recursively deletes them. Sort of like a clean up.
+This finds all the files that have .c extension and recursively deletes them. Sort of like a clean up of all files with .c extension

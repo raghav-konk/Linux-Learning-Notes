@@ -14,7 +14,7 @@
 
 - DNS servers, either by ISP or publicly available ones such as cloudfare DNS or Google DNS (8.8.8.8) take up this task.
 
-Can be configured to use a customer DNS setup in the system **/etc/resolv.conf** file as well as router
+Can be configured to use a customer DNS setup in the system **/etc/resolv.conf** file as well as router.
 
 ## How its done?
 - Open the /etc/resolv.conf file.
