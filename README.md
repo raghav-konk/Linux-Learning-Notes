@@ -51,6 +51,3 @@ My notes while learning Linux
 ## 📌 Notes
 
 These notes are a work-in-progress and may include personal shorthand, TODOs, and areas marked for deeper study. Feedback and suggestions are always welcome via issues or pull requests.
-
-- Adding this line to test specky editor on android and committing from the device.
-----
