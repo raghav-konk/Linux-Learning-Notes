@@ -42,3 +42,9 @@ This shows the defaut gateway and the device i.e. Network adapter that is being 
 sudo ip route add 10.10.10.12/24 via 192.168.1.1 dev eth0
 ```
 This adds route 10.10.10.12 through the gateway 192.168.1.1 using the network adapter eth0. 
+
+## Deleting a route
+```
+sudo ip route del 10.10.10.12/24
+```
+This delete a route from the system
