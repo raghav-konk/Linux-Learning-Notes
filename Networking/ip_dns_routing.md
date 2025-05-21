@@ -35,3 +35,10 @@ Routing refers to where the packets go.
 ip route show
 ```
 This shows the defaut gateway and the device i.e. Network adapter that is being used for routing data packets from external network such as internet.
+
+## Adding a route
+
+```
+sudo ip route add 10.10.10.12/24 via 192.168.1.1 dev eth0
+```
+This adds route 10.10.10.12 through the gateway 192.168.1.1 using the network adapter eth0. 
