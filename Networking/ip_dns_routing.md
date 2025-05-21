@@ -29,3 +29,9 @@ This is for cloudfare DNS.
 
 If nothing is set, The system uses ISPs default DNS settings.
 # Routing
+Routing refers to where the packets go.
+
+```
+ip route show
+```
+This shows the defaut gateway and the device i.e. Network adapter that is being used for routing data packets from external network such as internet.
