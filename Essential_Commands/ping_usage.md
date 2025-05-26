@@ -8,3 +8,8 @@ The `ping` command is used to test **network connectivity** between your compute
 
 ```bash
 ping [options] destination
+
+## Test local network connectivity:
+''' 
+ping 192.168.1.1
+'''
