@@ -4,7 +4,7 @@
 - Package managers handle software installation, updates, and removal.
 - Different Linux distributions use different package managers.
 
-## 2. Common Package Managers
+## 2. Common Package Managers in Linux
 
 ### Debian/Ubuntu (`.deb` packages)
 - **APT** (Advanced Package Tool)
