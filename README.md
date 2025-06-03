@@ -35,7 +35,7 @@ My notes while learning Linux
 
 - Reinforce what I’ve learned by writing it down
 - Share knowledge with other Linux learners
-- Build a personal reference I can return to anytime
+- Build a personal reference I can return to anytime.
 
 ---
 
