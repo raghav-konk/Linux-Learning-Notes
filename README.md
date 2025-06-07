@@ -9,6 +9,7 @@ My notes while learning Linux
 - [Processes & Jobs](Core_Concepts/Processes%20and%20Jobs.md)
 - [Package Management](Core_Concepts/Linux%20Package%20Management.md)
 
+
 ### 🔹 Essential Commands
 - [grep](Essential_Commands/grep%20usage.md)
 - [awk](Essential_Commands/awk_usage.md)
