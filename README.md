@@ -42,7 +42,7 @@ My notes while learning Linux
 
 ## 🛠 Technologies Used
 
-- Linux (Ubuntu, Debian, Arch as I explore)
+- Linux (Ubuntu, Debian, Fedora as I explore)
 - Bash
 - Git & GitHub
 - Markdown
